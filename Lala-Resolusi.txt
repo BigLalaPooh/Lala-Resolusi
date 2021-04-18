@@ -2,3 +2,5 @@ Lala Resolusi
 - Konsisten akan menyelesaikan semaksimal mungkin terkait kerjaan
 - Konsisten untuk belajar web programming
 - Konsisten untuk bisa membuat project
+- Membuat aplikasi data potensi
+- Membuat applikasi billing system
