@@ -3,4 +3,4 @@ Lala Resolusi
 - Konsisten untuk belajar web programming
 - Konsisten untuk bisa membuat project
 - Membuat aplikasi data potensi
-- Membuat applikasi billing system
+- Membuat aplikasi SMS gateway
